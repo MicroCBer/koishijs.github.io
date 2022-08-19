@@ -1,0 +1,1 @@
+const t={key:"v-348cadcb",path:"/plugins/assets/git.html",title:"\u8D44\u6E90\u5B58\u50A8\uFF1AGit",lang:"en-US",frontmatter:{title:"\u8D44\u6E90\u5B58\u50A8\uFF1AGit",sidebarDepth:2},excerpt:"",headers:[],git:{updatedTime:166092547e4},filePathRelative:"plugins/assets/git.md"};export{t as data};
